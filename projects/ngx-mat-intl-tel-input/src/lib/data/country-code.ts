@@ -29,7 +29,7 @@ export class CountryCode {
     ['Bermuda', 'bm', '1441'],
     ['Bhutan', 'bt', '975'],
     ['Bolivia', 'bo', '591'],
-    ['Bosnia and Herzegovina (Босна и Херцеговина)', 'ba', '387'],
+    ['Bosnia and Herzegovina', 'ba', '387'],
     ['Botswana', 'bw', '267'],
     ['Brazil', 'br', '55'],
     ['British Indian Ocean Territory', 'io', '246'],
