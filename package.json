@@ -1,6 +1,6 @@
 {
   "name": "@mivkovic/ngx-mat-intl-tel-input",
-  "version": "5.0.0",
+  "version": "5.0.5",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -17,7 +17,6 @@
     "copy-readme": "cp ./README.md ./dist/ngx-mat-intl-tel-input",
     "copy-files": "npm run copy-license && npm run copy-readme"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^16.2.6",
     "@angular/cdk": "^16.2.5",
@@ -71,5 +70,9 @@
   "description": "An Angular Material package for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods.",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mivkovic/ngx-mat-intl-tel-input.git"
+  }
 }
