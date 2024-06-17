@@ -117,3 +117,8 @@ After building and creating package, you can use it locally too.
 In your project run:
 
 `$ npm install --save {{path to your local '*.tgz' package file}}`
+
+
+`npm run package`
+
+`npm publish --access public`
