@@ -121,4 +121,4 @@ In your project run:
 
 `npm run package`
 
-`npm publish --access public`
+`npm publish --access public --ignore-scripts` or `npm publish --ignore-scripts`
